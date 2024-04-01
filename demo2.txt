@@ -1,0 +1,8 @@
+to clone the git repo
+git clone <HTTPS link>
+
+to get the Status:
+    git status
+
+to add file from working to Git folder
+    Git add <filename>
