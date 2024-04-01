@@ -9,3 +9,6 @@ to add file from working to Git folder
 
 to commit:
     git commit -m "message"
+
+to pull the files into local:
+git pull
