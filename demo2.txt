@@ -6,3 +6,6 @@ to get the Status:
 
 to add file from working to Git folder
     Git add <filename>
+
+to commit:
+    git commit -m "message"
